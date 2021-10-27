@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.judul h1{
+    font-weight: bold;
+    color: rgb(202, 172, 131);
+}
+
+.judul p{
+    font-weight: lighter;
+}
+
