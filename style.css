@@ -12,3 +12,7 @@ body{
     font-weight: lighter;
 }
 
+.col img {
+    object-fit: cover;
+    object-position: center;
+}
